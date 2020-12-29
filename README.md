@@ -15,5 +15,5 @@ Data Visualization: Observations:
 2.	From the heatmap correlation check between dependent and independent features and from this we get to know that there is a high correlation between target variable Outcome and independent variables Glucose, BMI ,Age and Insulin and predict the outcome.
 
 Model Accuracy: Observations:
-1	Patient is Diabetes or not prediction by fitting the logistic regression model, we get accuracy result of prediction Outcome is 74%
-2	where in KNN model also almost same accuracy but after tuning by applying Cross Validation technique a small improvement in predicting the diabetes or not by 1%, for n-neighbors=39 we get accuracy Outcome as 75.4%
+1.	Patient is Diabetes or not prediction by fitting the logistic regression model, we get accuracy result of prediction Outcome is 74% .
+2.	where in KNN model also almost same accuracy but after tuning by applying Cross Validation technique a small improvement in predicting the diabetes or not by 1%, for n-neighbors=39 we get accuracy Outcome as 75.4%
